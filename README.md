@@ -1,5 +1,5 @@
 # sswakseuri
-![1528607790748](C:\Users\Sangjin\Desktop\sswakseuri.assets\1528607790748.png)
+![1528607790748](/sswakseuri.assets/1528607790748.png)
 
 uTorrent temporary torrent files cleaner.
 
